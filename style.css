@@ -1,0 +1,45 @@
+
+.a1, .a2, .a3, .a4 {
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+color: #000000;
+font-family: Open Sans;
+font-size: 40px;
+font-weight: 100;
+padding: 40px;
+background-color: #3D94F6;
+border: solid #000000 1px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+.a1{
+	background:darkred;
+}
+.a2{
+	background:darkblue;
+}
+.a3{
+	background:darkgreen;
+}
+.a4{
+	background:#baae00;
+	/*D7DF01 alternative amarelo*/
+}
+/*
+.a1:hover{
+	background:red;
+}
+
+.a2:hover{
+	background:blue;
+}
+
+.a3:hover{
+	background:#40FF00;
+}
+.a4:hover{
+	background:yellow;
+}*/
